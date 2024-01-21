@@ -1,0 +1,5 @@
+name: Tool Message
+type: module
+description: 'Provide a message'
+package: NM custom
+core_version_requirement: ^10

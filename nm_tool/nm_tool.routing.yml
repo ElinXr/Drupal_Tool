@@ -1,0 +1,7 @@
+nm_tool.message:
+  path: '/tool'
+  defaults:
+    _controller: '\Drupal\nm_tool\Controller\ToolMessage::showMessage'
+    _title: 'Tool Page'
+  requirements:
+    _permission: 'access content'
